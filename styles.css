@@ -2,5 +2,8 @@ body {
   border: 1px solid brown;
   max-width: 80%;
   margin: 0 auto;
+  background-color: grey;
+}
+.container {
   background-color: paleturquoise;
 }
